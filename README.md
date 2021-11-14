@@ -52,5 +52,15 @@ Use IEX API
   <img src="https://user-images.githubusercontent.com/38114983/141684543-09e2a070-cb4f-45c0-b210-f814547dcc80.png" width="302">
 </p>
 
+# URL Reader
+Scan an URL to go to the associated web page
+
+## Frameworks used
+- UIKit
+- AVFoundation
+- LinkPresentation
+- Vision
+
+https://user-images.githubusercontent.com/38114983/141685221-90e4c026-cea0-4c5a-89df-62043281275a.mp4
 
 
