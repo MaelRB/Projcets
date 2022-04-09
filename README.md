@@ -1,5 +1,5 @@
 # Projcets
-Presentation of the different iOS app I have developed.
+Presentation of some iOS applications I've developed.
 
 # Instagram clone
 A clone of the instagram app.
